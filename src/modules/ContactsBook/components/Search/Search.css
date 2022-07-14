@@ -1,0 +1,15 @@
+input {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 28px;
+    width: 500px;
+    height: 30px;
+    left: 498px;
+    top: 117px;
+    
+    box-sizing: border-box;
+    background: #E8E8E8;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    padding: 10px;
+}

@@ -1,0 +1,41 @@
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 1312px;
+    height: 45px;
+    left: 100px;
+    top: 45px;
+    margin-bottom: 27px;
+}
+
+.header-main {
+    width: 167px;
+    height: 45px;
+    left: 100px;
+    top: 45px;
+}
+
+.header-title{
+    font-size: 24px;
+    height: 29px;
+    margin: 0;
+}
+
+.header-subtitle{
+    font-size: 12px;
+    height: 16px;
+    margin: 0;
+}
+
+.header-link{
+    width: 120px;
+    height: 15px;
+    left: 1292px;
+    top: 60px;
+    font-size: 12px;
+}
+
+a {
+    color: black;
+    text-decoration:underline;
+}
